@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://jacvietnam.com.vn/' target='_blank'><img src='http://jacvietnam.com.vn/images/stories/jac-2t4-banner.jpg' width='500px'/><br/>13 Bán xe tải Jac 4T9 trả góp giá rẻ tại TPHCM</a>. Liên hệ: 0906.404.523. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://jacvietnam.com.vn/' target='_blank'><img src='http://jacvietnam.com.vn/images/stories/jac-2t4-banner.jpg' width='500px'/><br/>Bán xe tải Jac 4T9 trả góp giá rẻ tại TPHCM</a>. Liên hệ: 0906.404.523. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
